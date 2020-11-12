@@ -1,3 +1,3 @@
 # Automatic Watering System
-# Automatic watering system for indoor or outdoor plants
+Automatic watering system for indoor or outdoor plants
 
